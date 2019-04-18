@@ -38,10 +38,10 @@ class HomeHeader extends Component {
           <div className="instructions" />
           <div className="side right">
             <div className="text-container">
-              <div className="header-text">Hi, I'm Gage</div>
+              <div className="header-text">Hi, I'm Pravash</div>
               <div className="sub-text">
-                I'm a web developer and designer currently residing in Portland,
-                Oregon.
+                I'm a web developer and designer currently residing in Bhubaneswar,
+                Odisha.
                 <br />
                 <br />I create clean, modern, creative websites and interactive
                 web experiences.

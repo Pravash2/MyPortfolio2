@@ -8,7 +8,7 @@ import io from 'socket.io-client';
 class App extends Component {
   constructor(options) {
     super(options);
-    var apiAddress = 'http://162.243.131.60:3001';
+    var apiAddress = 'https://console.aws.amazon.com/cloud9/ide/8d90c417fa7e4af38bed7f8f1a37cfac';
 
     this.socket = io.connect(apiAddress);
     this.touchDevice = this.isTouchDevice();

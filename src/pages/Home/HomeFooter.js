@@ -7,8 +7,8 @@ class HomeFooter extends Component {
       <div className="HomeFooter">
         <div className="content">
           <div className="text-container">
-            <div>Website Created by Gage Henderson</div>
-            <div>gageprod@gmail.com</div>
+            <div>Website Created by Pravash Kumar Behera</div>
+            <div>pravashbehera2@gmail.com</div>
           </div>
           <div className="line" />
           <div className="link-container">
